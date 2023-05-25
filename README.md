@@ -12,7 +12,7 @@ The tables will be exported as LaTeX files, and the figures as PDF files.
 
 If you prefer to perform the replication manually, first create the subfolder `results` in your local folder. Then run the R script `analysis.R` in the same folder as the data file `data.csv`. 
 
-The table below lists which R packages were used in the analysis. The Docker image will automatically install the correct versions. If you perform the replication manually, you might have to make sure you have the correct versions of the packages (using, e.g., the [posit Package Manager](https://packagemanager.posit.co/).
+The table below lists which R packages were used in the analysis. The Docker image will automatically install the correct versions. If you perform the replication manually, you might have to make sure you have the correct versions of the packages (using, e.g., the [posit Package Manager](https://packagemanager.posit.co/)).
 
 | Package        | Version |
 | -------------- | ------- |                     
